@@ -23,3 +23,22 @@ namespace polymorphism
             }
     }
 }
+public abstract class Bird
+{
+    public void WhatIEat()
+    {
+        Console.WriteLine("I eat grass");
+    }
+    public abstract void WhatIEat(string food);
+}
+public class Crow: Bird
+{
+    public override void WhatIEat(string food)
+    {
+         Console.WriteLine("I eat "+ food);
+    }
+    public void WhatIEat(string food1,string food2)
+    {
+        Console.WriteLine("I eat " + food1 +" and " + food2);
+    }
+}

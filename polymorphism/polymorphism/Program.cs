@@ -10,10 +10,15 @@ namespace polymorphism
     {
         static void Main(string[] args)
         {
-            overloading cow=new overloading();
+            /*overloading cow=new overloading();
             cow.WhatIEat();
             cow.WhatIEat("grass");
             cow.WhatIEat("grass", "straw");
+            Console.ReadKey();*/
+            Crow santoshcrow =new Crow();
+            santoshcrow.WhatIEat();
+            santoshcrow.WhatIEat("grass");
+            santoshcrow.WhatIEat("grass", "straw");
             Console.ReadKey();
         }
     }

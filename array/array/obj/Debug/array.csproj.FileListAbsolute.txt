@@ -1,0 +1,8 @@
+E:\Suraj\6th sem\.net\array\array\bin\Debug\array.exe.config
+E:\Suraj\6th sem\.net\array\array\bin\Debug\array.exe
+E:\Suraj\6th sem\.net\array\array\bin\Debug\array.pdb
+E:\Suraj\6th sem\.net\array\array\obj\Debug\array.csproj.AssemblyReference.cache
+E:\Suraj\6th sem\.net\array\array\obj\Debug\array.csproj.SuggestedBindingRedirects.cache
+E:\Suraj\6th sem\.net\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+E:\Suraj\6th sem\.net\array\array\obj\Debug\array.exe
+E:\Suraj\6th sem\.net\array\array\obj\Debug\array.pdb

@@ -1,0 +1,16 @@
+E:\6th sem\.net\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+E:\6th sem\.net\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+E:\6th sem\.net\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+E:\6th sem\.net\Operators\Operators\bin\Debug\Operators.exe.config
+E:\6th sem\.net\Operators\Operators\bin\Debug\Operators.exe
+E:\6th sem\.net\Operators\Operators\bin\Debug\Operators.pdb
+E:\6th sem\.net\Operators\Operators\obj\Debug\Operators.exe
+E:\6th sem\.net\Operators\Operators\obj\Debug\Operators.pdb
+E:\Suraj\6th sem\.net\Operators\Operators\bin\Debug\Operators.exe.config
+E:\Suraj\6th sem\.net\Operators\Operators\bin\Debug\Operators.exe
+E:\Suraj\6th sem\.net\Operators\Operators\bin\Debug\Operators.pdb
+E:\Suraj\6th sem\.net\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+E:\Suraj\6th sem\.net\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+E:\Suraj\6th sem\.net\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+E:\Suraj\6th sem\.net\Operators\Operators\obj\Debug\Operators.exe
+E:\Suraj\6th sem\.net\Operators\Operators\obj\Debug\Operators.pdb

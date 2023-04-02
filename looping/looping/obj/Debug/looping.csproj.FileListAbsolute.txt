@@ -1,0 +1,8 @@
+E:\Suraj\6th sem\.net\looping\looping\bin\Debug\looping.exe.config
+E:\Suraj\6th sem\.net\looping\looping\bin\Debug\looping.exe
+E:\Suraj\6th sem\.net\looping\looping\bin\Debug\looping.pdb
+E:\Suraj\6th sem\.net\looping\looping\obj\Debug\looping.csproj.AssemblyReference.cache
+E:\Suraj\6th sem\.net\looping\looping\obj\Debug\looping.csproj.SuggestedBindingRedirects.cache
+E:\Suraj\6th sem\.net\looping\looping\obj\Debug\looping.csproj.CoreCompileInputs.cache
+E:\Suraj\6th sem\.net\looping\looping\obj\Debug\looping.exe
+E:\Suraj\6th sem\.net\looping\looping\obj\Debug\looping.pdb

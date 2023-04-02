@@ -1,0 +1,8 @@
+E:\6th sem\.net\myhelloworld\myhelloworld\bin\Debug\myhelloworld.exe.config
+E:\6th sem\.net\myhelloworld\myhelloworld\bin\Debug\myhelloworld.exe
+E:\6th sem\.net\myhelloworld\myhelloworld\bin\Debug\myhelloworld.pdb
+E:\6th sem\.net\myhelloworld\myhelloworld\obj\Debug\myhelloworld.csproj.AssemblyReference.cache
+E:\6th sem\.net\myhelloworld\myhelloworld\obj\Debug\myhelloworld.csproj.SuggestedBindingRedirects.cache
+E:\6th sem\.net\myhelloworld\myhelloworld\obj\Debug\myhelloworld.csproj.CoreCompileInputs.cache
+E:\6th sem\.net\myhelloworld\myhelloworld\obj\Debug\myhelloworld.exe
+E:\6th sem\.net\myhelloworld\myhelloworld\obj\Debug\myhelloworld.pdb

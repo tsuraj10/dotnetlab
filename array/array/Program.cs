@@ -12,7 +12,11 @@ namespace array
         {
             try
             {
-                string[] names = new string[5];
+                Console.WriteLine("Input your number");
+                string myNumber =Console.ReadLine();
+                int mynumber= Convert.ToInt32(myNumber);
+                Console.WriteLine("Your number is "+myNumber);
+               /* string[] names = new string[5];
                 names[0] = "suraj";
                 names[1] = "nishant";
                 names[2] = "santosh";
@@ -22,7 +26,7 @@ namespace array
                 foreach (string item in names)
                 {
                     Console.WriteLine(item);
-                }
+                }*/
             }
             catch (Exception ex)
             {

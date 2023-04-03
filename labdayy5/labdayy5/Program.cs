@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -36,7 +37,7 @@ namespace labdayy5
             {
                 Console.WriteLine("Key is "+item + " and value is "+ mylist[item]);
             }*/
-            List<int> rollno=new List<int>();
+            /*List<int> rollno=new List<int>();
             rollno.Add(1);
             rollno.Add(2);
             rollno.Add(3);
@@ -46,7 +47,11 @@ namespace labdayy5
             foreach (var item in rollno)
             {
                 Console.WriteLine("Roll Num is " + item);
-            }
+            }*/
+            FileStream file = new FileStream("suraj.dat", FileMode.OpenOrCreate, FileAccess.ReadWrite);
+            //file.WriteByte((byte) 10);
+            Console.Write(file.ReadByte()+" ");
+            file.Close();
             Console.ReadKey();
             
         }

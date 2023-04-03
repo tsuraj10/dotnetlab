@@ -1,0 +1,8 @@
+E:\Suraj\6th sem\.net\labday5\labday5\obj\Debug\labday5.csproj.AssemblyReference.cache
+E:\Suraj\6th sem\.net\labday5\labday5\obj\Debug\labday5.csproj.SuggestedBindingRedirects.cache
+E:\Suraj\6th sem\.net\labday5\labday5\obj\Debug\labday5.csproj.CoreCompileInputs.cache
+E:\Suraj\6th sem\.net\labday5\labday5\bin\Debug\labday5.exe.config
+E:\Suraj\6th sem\.net\labday5\labday5\bin\Debug\labday5.exe
+E:\Suraj\6th sem\.net\labday5\labday5\bin\Debug\labday5.pdb
+E:\Suraj\6th sem\.net\labday5\labday5\obj\Debug\labday5.exe
+E:\Suraj\6th sem\.net\labday5\labday5\obj\Debug\labday5.pdb
